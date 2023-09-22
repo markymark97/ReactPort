@@ -9,7 +9,7 @@ const About = () => {
             </div>
             <p className='text-x1 mt-20'>
                 My name is Mark Podrabinnik. I am currently studying to be a full stack developer. I am located in Denver, Colorado.
-                While I am studying to all aspects of code, my strengths include: HTML, CSS, React, JavaScript, NodeJS, ExpressJS & SQL. 
+                While I am studyig all aspects of code, my strengths include: HTML, CSS, React, JavaScript, NodeJS, ExpressJS & SQL. 
                 If you are interested in more check out the Github link below!
                 </p>
             <br />
