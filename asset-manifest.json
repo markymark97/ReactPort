@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ReactPort/static/css/main.28e15bc8.css",
+    "main.js": "/ReactPort/static/js/main.63753025.js",
+    "static/media/me.jpg": "/ReactPort/static/media/me.2faea31c6ca7be01c4c1.jpg",
+    "static/media/SQL.png": "/ReactPort/static/media/SQL.ba96debcd759000a6604.png",
+    "static/media/unnamed.png": "/ReactPort/static/media/unnamed.6243ab8e89d1a41ba357.png",
+    "static/media/welcome-page.png": "/ReactPort/static/media/welcome-page.89428041727aae9b4eb8.png",
+    "index.html": "/ReactPort/index.html",
+    "main.28e15bc8.css.map": "/ReactPort/static/css/main.28e15bc8.css.map",
+    "main.63753025.js.map": "/ReactPort/static/js/main.63753025.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28e15bc8.css",
+    "static/js/main.63753025.js"
+  ]
+}
