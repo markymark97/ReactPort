@@ -12,8 +12,7 @@ const Home = () => {
 
                 <div className='flex flex-col justify-center h-full'>
                     <h2 className='text-4xl sm:text-7xl font-bold text-white'>Coding & Climbing</h2>
-                    <p className='text-gray-500 py-4 max-w-md'>Hello there! My name is Mark Podrabinnik and I am currently studying to be a
-                    a full stack developer. When I am not coding I'm probably out climbing!</p>
+                    <p className='text-gray-500 py-4 max-w-md'>Hello there! My name is Mark Podrabinnik and I am currently studying to be a full stack developer. When I am not coding I'm probably out climbing!</p>
 
                     <div>
                         <Link to='portfolio' smooth duration={300} className='group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer'>
